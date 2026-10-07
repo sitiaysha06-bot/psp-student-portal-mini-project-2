@@ -1,0 +1,19 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 1100px;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.card-header {
+    font-weight: bold;
+}
+
+.btn {
+    border-radius: 6px;
+}
